@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/driver/imu/drv_mag_regs.h</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/main.c</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/cstartup.S</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/driver/imu/drv_gyro_regs.h</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/driver/imu/drv_accel_regs.h</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/driver/spi/drv_spi_definitions.h</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/peripheral/dbgu/plib_dbgu.h</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/app.c</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/driver/spi/src/drv_spi.c</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/driver/imu/drv_imu.c</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/peripheral/flexcom/spi/master/plib_flexcom5_spi_master.c</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/driver/imu/drv_imu.h</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/peripheral/dbgu/plib_dbgu.c</file>
+            <file>file:/C:/Users/c40450/HarmonyProjects/Inertial9DOF/firmware/src/config/sam9x_Curiosity/peripheral/pio/plib_pio.h</file>
+        </group>
+    </open-files>
+</project-private>

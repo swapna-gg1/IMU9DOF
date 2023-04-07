@@ -1,0 +1,14 @@
+format_version: v1.0
+configName: sam9x_Curiosity
+folderName: IMU_SAM9XCuriosity_BMX055
+frameworkPath: C:\Users\c40450\harmony3_evcharger
+processor: SAM9X60D1G
+projectName: IMU_SAM9XCuriosity_BMX055
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: dev_packs\Microchip\SAM9X60_DFP\1.7.85\atdf\SAM9X60D1G.atdf

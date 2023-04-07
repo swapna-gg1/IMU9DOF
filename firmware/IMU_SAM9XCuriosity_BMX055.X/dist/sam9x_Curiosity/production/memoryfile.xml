@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/sam9x_Curiosity/production/IMU_SAM9XCuriosity_BMX055.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>117440512</length>
+      <used>65308</used>
+      <free>117375204</free>
+    </memory>
+  </executable>
+</project>

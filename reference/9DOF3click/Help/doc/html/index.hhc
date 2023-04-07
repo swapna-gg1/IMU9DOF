@@ -1,0 +1,739 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Main Page"><param name="Local" value="index.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Modules"><param name="Local" value="modules.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="9DOF 3  Click Driver"><param name="Local" value="group__c9dof3.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="group__macros.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MikroBUS"><param name="Local" value="group__map__mikrobus.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAP_MIKROBUS"><param name="Local" value="group__map__mikrobus.html#ga837fce0450ef023c53b7bd6126ea97f3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Select communication"><param name="Local" value="group__communication.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MASTER_I2C"><param name="Local" value="group__communication.html#gad6088954ba38486595ab498bf2a919a3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MASTER_SPI"><param name="Local" value="group__communication.html#ga9e05c5134f8f25baa228e2edf44ff1b5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Error Code"><param name="Local" value="group__error__code.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_RETVAL"><param name="Local" value="group__error__code.html#ga0e1685110aa5ed8a557cd6c22d6251be"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="I2C Slave Address"><param name="Local" value="group__i2c__slave__address.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_I2C_SLAVE_ADDRESS"><param name="Local" value="group__i2c__slave__address.html#gaab396f7890a988519198aa14f657bcd6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_I2C_SLAVE_ADDRESS"><param name="Local" value="group__i2c__slave__address.html#ga4f051053b179971377dac8f5b6947977"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_I2C_SLAVE_ADDRESS"><param name="Local" value="group__i2c__slave__address.html#ga2f051a491ea53140277dc79a53acc8f3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Device check register"><param name="Local" value="group__device__check__register.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_DEVICE"><param name="Local" value="group__device__check__register.html#ga08a21b3121719e0c84b7e14a13d8a4b4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_DEVICE"><param name="Local" value="group__device__check__register.html#gadc06d1ec8f3349ec38913d4251ae427c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DEVICE"><param name="Local" value="group__device__check__register.html#ga99bcd534953461b71d90a120f92f775e"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Soft reset parameter"><param name="Local" value="group__soft__reset__parameter.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_INITIATED_SOFT_RESET"><param name="Local" value="group__soft__reset__parameter.html#gad65d3407684f60d2c189cb9d5e92f925"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Accel Register"><param name="Local" value="group__accel__register.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_BGW_SOFTRESET"><param name="Local" value="group__accel__register.html#ga94a794c5df43cc3a75dcd0b4334df485"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_BGW_SPI3_WDT"><param name="Local" value="group__accel__register.html#ga6c575290d090fcf18977ac5bbaf6e9fa"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_HBW"><param name="Local" value="group__accel__register.html#gac740321a19a4aff69363d47333145604"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_TEMP"><param name="Local" value="group__accel__register.html#ga0cdd9ab480957e1a3768461ce2b00e87"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_X_LSB"><param name="Local" value="group__accel__register.html#ga8c01ce485745bfa72bc4c1f461d0cce6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_X_MSB"><param name="Local" value="group__accel__register.html#ga9796d0a050307187a2b4bdb94a08cc20"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Y_LSB"><param name="Local" value="group__accel__register.html#ga16e84275af98df6853216af924562e54"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Y_MSB"><param name="Local" value="group__accel__register.html#ga500b8833f35789a33c573fc0e217415a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Z_LSB"><param name="Local" value="group__accel__register.html#gaac09060218d71ebcad5ab337659c7c4e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Z_MSB"><param name="Local" value="group__accel__register.html#ga90c5351091d00af61b80942c24e19acd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_DATA_START"><param name="Local" value="group__accel__register.html#ga9fbba37da6e138833b167fb1c4cb42df"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_CONFIG_0"><param name="Local" value="group__accel__register.html#gadfa42325a2b8fb154bda258a4442ce80"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_CONFIG_1"><param name="Local" value="group__accel__register.html#ga0c587f7f76f1ccae95f8e16aad09c068"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_DATA"><param name="Local" value="group__accel__register.html#ga293f84c642c0176f92a04a958fe1ae26"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_STATUS"><param name="Local" value="group__accel__register.html#gad79077260184af97873a8c86b4783b35"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_0"><param name="Local" value="group__accel__register.html#ga894281d8d2dfdaedffb55a15ee07a714"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_1"><param name="Local" value="group__accel__register.html#ga80366a2ee55a9b9d7c583edb11007dee"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_2"><param name="Local" value="group__accel__register.html#ga745fa5736ec3508961fe69eb29e5fd5c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_3"><param name="Local" value="group__accel__register.html#ga0c7f86c9b332ac3360522b7f9a797af6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_4"><param name="Local" value="group__accel__register.html#ga007512bb5914b436558f35738ffc54f5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_5"><param name="Local" value="group__accel__register.html#ga8890fa38680fe289c3f86b2d0e005e0c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_6"><param name="Local" value="group__accel__register.html#gae4a9af080e11f9c72adacf52484feea9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_7"><param name="Local" value="group__accel__register.html#ga5393e64aaa4c5f4ea33768a8171467b8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_8"><param name="Local" value="group__accel__register.html#ga48a9b96ddbf431763b50bf249f528191"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_9"><param name="Local" value="group__accel__register.html#gaaf733b310922ee9ed712b5485abb1b43"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_A"><param name="Local" value="group__accel__register.html#gaac78d67ad26c332b526640a2eaa4a2de"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_B"><param name="Local" value="group__accel__register.html#ga62befe4e7bd4f5c86d493892c3610960"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_C"><param name="Local" value="group__accel__register.html#ga89923e402891bda9033ace14021b5bb5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_D"><param name="Local" value="group__accel__register.html#gae2470e8366b11d49aada435f958c0923"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_EN_0"><param name="Local" value="group__accel__register.html#gac2a050e686aafbcd13fd9f531fb80533"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_EN_1"><param name="Local" value="group__accel__register.html#ga97351e54d619f7107fe2ea44bf2ff4de"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_EN_2"><param name="Local" value="group__accel__register.html#gab5830163528ae56fb781302d8398417b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_MAP_0"><param name="Local" value="group__accel__register.html#gabdc432c39e6ab847f3af6f2df29fad56"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_MAP_1"><param name="Local" value="group__accel__register.html#ga41fb9415fe1fd9ff71f73e732dae8fc1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_MAP_2"><param name="Local" value="group__accel__register.html#gafabbac1a7da22c2081271fb9f16140e3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_OUT_CTRL"><param name="Local" value="group__accel__register.html#ga6fd48c0b02b7a724ab1b128e9c3fc398"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_RST_LATCH"><param name="Local" value="group__accel__register.html#ga1c1cc0cfda31be597b6f3ca580f2117b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_SRC"><param name="Local" value="group__accel__register.html#ga8d441a38eac68cad7b07283c8aa4a62f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_0"><param name="Local" value="group__accel__register.html#ga29622a9c0a8780ab06d7c8935bb3c764"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_1"><param name="Local" value="group__accel__register.html#ga329e54671b6fd687cd5585f4804c79c6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_2"><param name="Local" value="group__accel__register.html#ga4c139e48ac15c23a66a8edde9aba2016"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_3"><param name="Local" value="group__accel__register.html#ga5a8230e5d34d405fb0904f658541e411"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_CTRL"><param name="Local" value="group__accel__register.html#gaeebb214c45d4503d88ddd1aca59faca5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_OFFSET_X"><param name="Local" value="group__accel__register.html#ga8e1cd641ac176a7e6554bdca041d8ffa"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_OFFSET_Y"><param name="Local" value="group__accel__register.html#ga05c83675ead0b07fa5234968acc9dd2e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_OFFSET_Z"><param name="Local" value="group__accel__register.html#gaf5515d63435ecb02718807dafc44eb7b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_SETTING"><param name="Local" value="group__accel__register.html#ga2a7a2af21b953ba264d0b95f73687878"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_BW"><param name="Local" value="group__accel__register.html#ga8a1b2f967784fe7bb359f335c122e9fc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_LOW_POWER"><param name="Local" value="group__accel__register.html#ga52b18ff20be8d6741b783789b24c2cc4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_LPW"><param name="Local" value="group__accel__register.html#ga223fbd017b2d4f9af7cf068028851612"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_RANGE"><param name="Local" value="group__accel__register.html#gaac27f89b676a3e6651190d872b83b5f8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_SELF_TEST"><param name="Local" value="group__accel__register.html#gabd084a60f37553dc9ba476e6ba362105"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_TRIM_GP1"><param name="Local" value="group__accel__register.html#gad1226b97d89b56adf15db5c3ee0d2ddd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_TRIM_GPO"><param name="Local" value="group__accel__register.html#gac07d91577d485cb92a46f71747f43feb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_TRIM_NVM_CTRL"><param name="Local" value="group__accel__register.html#ga68862de2daf32c2387abc0d854454f44"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_WHO_AM_I"><param name="Local" value="group__accel__register.html#gaee190aee4f7b162249cb1f874d8d2894"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Gyro Register"><param name="Local" value="group__gyro__register.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_A_FOC"><param name="Local" value="group__gyro__register.html#gab3c8a6287125209da02d9176b2d0da7b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BGW_SOFTRESET"><param name="Local" value="group__gyro__register.html#ga11f5cdc30fc80f07ffd32bdd6993fded"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BGW_SPI3_WDT"><param name="Local" value="group__gyro__register.html#ga4499b7b128d617b3043cd3ccdd2ddf9c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BIST"><param name="Local" value="group__gyro__register.html#ga64795aadea09707fbeae68be9ff0498f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BW"><param name="Local" value="group__gyro__register.html#ga7fd94c46398c5caa63b19ef17d7ac2b3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_DATA_START"><param name="Local" value="group__gyro__register.html#gacfbb10ced08b58d0e270335884fe017a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_CONFIG_0"><param name="Local" value="group__gyro__register.html#ga592ec6e1a645a6716475a222872d58b9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_CONFIG_1"><param name="Local" value="group__gyro__register.html#ga38bdfdaaa5529b33e00cfddf6a7ff197"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_EN"><param name="Local" value="group__gyro__register.html#gaaf7cc58c9a352708e8630a0cf5fafc1f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_STATUS"><param name="Local" value="group__gyro__register.html#ga23d962066239f4e98ee37ffa0b8e06c9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_DUR_X"><param name="Local" value="group__gyro__register.html#ga6ea5e0b94a4bb5d143619e16f23bbc66"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_DUR_Y"><param name="Local" value="group__gyro__register.html#gad279448a2cf3fc2b619db9cf024dd8c0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_DUR_Z"><param name="Local" value="group__gyro__register.html#ga189b1049fc765e910166acd28f37b325"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_TH_X"><param name="Local" value="group__gyro__register.html#ga224cc0a48c0c8c904712c20b9cd4d022"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_TH_Y"><param name="Local" value="group__gyro__register.html#ga3a2f75ae4e0a538af271741c441bed91"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_TH_Z"><param name="Local" value="group__gyro__register.html#ga3089fc1505277386ef2b0bdf33f149eb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_EN_0"><param name="Local" value="group__gyro__register.html#ga3f30471af20c5a4f59c12630f43b5cf4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_EN_1"><param name="Local" value="group__gyro__register.html#ga36b0bccbaef712805782c6c2f95baa3e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_MAP_0"><param name="Local" value="group__gyro__register.html#gad21a2418da769e0c8280cd588b498b47"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_MAP_1"><param name="Local" value="group__gyro__register.html#ga1f2e329a7e99167cb6504e98ef530bae"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_MAP_2"><param name="Local" value="group__gyro__register.html#ga1e025d12838039329192cf0a2e774a44"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_RST_LATCH"><param name="Local" value="group__gyro__register.html#ga899b4b2ddb01a0be5517446ef16147f4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_SRC_1"><param name="Local" value="group__gyro__register.html#gac84b5c923276970c87759227172f7af7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_SRC_2"><param name="Local" value="group__gyro__register.html#ga8bbec7781c7ff5c82b71dce73959cee0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_SRC_3"><param name="Local" value="group__gyro__register.html#ga3b65c81a7b2047a8a31d2986294e0f00"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_0"><param name="Local" value="group__gyro__register.html#ga73f2cb2dca1aa59488fd2882361789ae"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_1"><param name="Local" value="group__gyro__register.html#ga1a17225defa82daa8e90efe2f680da8e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_2"><param name="Local" value="group__gyro__register.html#gaa87f9e90795773c8f627237f8deccc85"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_3"><param name="Local" value="group__gyro__register.html#ga40f364448ba42c72e1f50721d491e68e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_LPM1"><param name="Local" value="group__gyro__register.html#ga978d0af976517f74ad20e7fb93602cf6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_LPM2"><param name="Local" value="group__gyro__register.html#ga4ec9b58d2941fa873ca9085b5ba3980f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC1"><param name="Local" value="group__gyro__register.html#ga528f3f89fa415c28f0b022ab2f2e5dbc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC2"><param name="Local" value="group__gyro__register.html#gab1671b69ed3e5c860fe2f57ce8404b96"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC3"><param name="Local" value="group__gyro__register.html#gaf738853b7048d6b7d4f7c74fe1f07207"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC4"><param name="Local" value="group__gyro__register.html#ga4814a59ede3b03627fece7a4045a6e83"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RANGE"><param name="Local" value="group__gyro__register.html#gabf29e5d1eb6587231a5b9ee3b2ec07cf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_HBW"><param name="Local" value="group__gyro__register.html#ga3178686d329589093db5c09cb89261c8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_X_LSB"><param name="Local" value="group__gyro__register.html#ga2957454b5712a81f60f9ef10795401ee"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_X_MSB"><param name="Local" value="group__gyro__register.html#gaa7e51782a6ddad0c701fc1ed0a9d4287"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Y_LSB"><param name="Local" value="group__gyro__register.html#ga4a69eef058c689b5df79331140a70c12"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Y_MSB"><param name="Local" value="group__gyro__register.html#ga13f21936723236f2c755fe381a9325ab"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Z_LSB"><param name="Local" value="group__gyro__register.html#ga81137f9ab4e733fc4220c00242f67f7e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Z_MSB"><param name="Local" value="group__gyro__register.html#gaebef7d7f3902340d682723ef275ca6f4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_SOC"><param name="Local" value="group__gyro__register.html#gae9046f0e7f22366ef6ff069486e34717"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_TRIM_GP0"><param name="Local" value="group__gyro__register.html#ga16f2d770fce38f10ab15e2d0001a53f3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_TRIM_GP1"><param name="Local" value="group__gyro__register.html#gabf203d5f4dbf3d19b9471c902be2c404"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_TRIM_NVM_CTRL"><param name="Local" value="group__gyro__register.html#gadf0da6189e97f2c9345e2a1df7e70450"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_WHO_AM_I"><param name="Local" value="group__gyro__register.html#ga56bf7e9a973406c359b3b977df516c55"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Mag Register"><param name="Local" value="group__mag__register.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_DATA_START"><param name="Local" value="group__mag__register.html#ga866fee825dd3e0b9e4bca4417736f5d1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_HIGH_THS"><param name="Local" value="group__mag__register.html#ga3cc434398808fa7411816941a83a4e73"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_INT_EN_1"><param name="Local" value="group__mag__register.html#gae91ab6b9ab29ffcb8b88cfe056d6da47"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_INT_EN_2"><param name="Local" value="group__mag__register.html#ga431385d3189cea2d0c6fafc4a6a4c841"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_INT_STATUS"><param name="Local" value="group__mag__register.html#ga5b08649bbd289a6ee782de00f033a2de"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_LOW_THS"><param name="Local" value="group__mag__register.html#ga85368e519cff241e2841172243800026"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_PWR_CNTL1"><param name="Local" value="group__mag__register.html#ga9b438c160c4b4e7b6a7beadbd3234b79"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_PWR_CNTL2"><param name="Local" value="group__mag__register.html#gaed0037ce0f7fbce716fc72f17bc8feb8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_REP_XY"><param name="Local" value="group__mag__register.html#ga16a704bcd02d5a4c9d47187596b812ec"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_REP_Z"><param name="Local" value="group__mag__register.html#gab58ec62a673a4550561ed13e50e3c6e8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ROUT_LSB"><param name="Local" value="group__mag__register.html#gaa7ae382fec0d35cd9c738a88ccd2a620"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ROUT_MSB"><param name="Local" value="group__mag__register.html#ga999b0ecc158e8c6fcf9d7db0133cdb7d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_WHO_AM_I"><param name="Local" value="group__mag__register.html#gabb1124198a7914c230567e89a63c257a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_XOUT_LSB"><param name="Local" value="group__mag__register.html#ga2cdc1c0bde544a391fe2b6b8560b85a3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_XOUT_MSB"><param name="Local" value="group__mag__register.html#ga6fe53d88491deaefce281c2e7c758c0c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_YOUT_LSB"><param name="Local" value="group__mag__register.html#ga75b499b8a4a4857e720d8120fae5bd6f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_YOUT_MSB"><param name="Local" value="group__mag__register.html#ga07264706b70997c7edabf0993e14fb10"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ZOUT_LSB"><param name="Local" value="group__mag__register.html#gafffae7882f9563cd179e2255b2ed26a1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ZOUT_MSB"><param name="Local" value="group__mag__register.html#ga0d674fad3d6ce80d1a2f4ae831e16aef"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Accel MPU Range Parameter"><param name="Local" value="group__accel__mpu__range__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_16"><param name="Local" value="group__accel__mpu__range__param.html#ga38d3a2f53ee16af123a7b3d5b7e6ac45"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_2"><param name="Local" value="group__accel__mpu__range__param.html#gac1d3b86dc95bee6f4f7b2571ecb061bb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_4"><param name="Local" value="group__accel__mpu__range__param.html#ga415feaf3ca0b6676286610ab95a3f858"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_8"><param name="Local" value="group__accel__mpu__range__param.html#ga490a3f398326ef894b9ef4a6b998ae44"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Accel MPU Band Width Parameter ( Hz )"><param name="Local" value="group__accel__mpu__band__width__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_1000"><param name="Local" value="group__accel__mpu__band__width__param.html#gac5ceb263b3393f19a9afb68ee9d7a32f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_125"><param name="Local" value="group__accel__mpu__band__width__param.html#gaa54d37c949284ba22de4c263626df836"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_15_63"><param name="Local" value="group__accel__mpu__band__width__param.html#ga56ea65269d1d15e0d78ac0eb491b496d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_250"><param name="Local" value="group__accel__mpu__band__width__param.html#gaf5ef6458c474093a2d21fef049d81c49"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_31_25"><param name="Local" value="group__accel__mpu__band__width__param.html#ga1b9c7acdf54058d5bf3aca65b60b0522"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_500"><param name="Local" value="group__accel__mpu__band__width__param.html#gad238b0c38dd65c904dcc184623365e31"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_62_5"><param name="Local" value="group__accel__mpu__band__width__param.html#ga90232114d5a006e1393fb2a78e98b654"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_7_81"><param name="Local" value="group__accel__mpu__band__width__param.html#ga01ea8c0d989977e4f19a946d876d8dc5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Accel Low Power Mode Parameter"><param name="Local" value="group__accel__low__power__mode__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_DEEP_SUSPEND"><param name="Local" value="group__accel__low__power__mode__param.html#ga496d60fc25d3776c33771b27779a22bd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_LOW_POWER"><param name="Local" value="group__accel__low__power__mode__param.html#ga1a1a11fc68a3c64cf46d8683732d6ebd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_NOMAL"><param name="Local" value="group__accel__low__power__mode__param.html#gab32caf1b22414d5ed347183c313867e1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_SUSPEND"><param name="Local" value="group__accel__low__power__mode__param.html#gadfb95327d4589e9dd01c97d37f622c21"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Accel Low Power Mode sleep phase duration Parameter"><param name="Local" value="group___accel__sleep__phase__duration__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_0_5MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga3c23dbad451c47448e5987661fdf0d47"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_100MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga9cfe21bb40d4db90beece8a5abb7cd1b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_10MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#gaf67e6feb274553b54d8bc99c40c2cd22"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_1MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga41442fe553df28883621094017318c08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_1S"><param name="Local" value="group___accel__sleep__phase__duration__param.html#gaea3cfeff01de79e4b5932bba1bbd75ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_25MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga29552f1d4f8d287c392b082db9709e96"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_2MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#gaab087a3e9f08111befb9d71a7141a03e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_4MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga8ec7a307246ee8c70f042bd8eadcbea3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_500MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga6ec7af71bdb577f06bcf6bf384314011"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_50MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga71bdd0a9ea45e846bf1e5e7a8c1f78c9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_6MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga915a70ee13ce324242ab9a8b57df2187"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Gyro Low Power Mode Parameter"><param name="Local" value="group__gyro__low__power__mode__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_MODE_DEEP_SUSPEND"><param name="Local" value="group__gyro__low__power__mode__param.html#ga7e6d151e41f98fb13c233552f520ffae"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_MODE_NOMAL"><param name="Local" value="group__gyro__low__power__mode__param.html#ga3c0bd4d1533249a715391211771ce1d5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_MODE_SUSPEND"><param name="Local" value="group__gyro__low__power__mode__param.html#gadc78a2dcc2543cb7337cd8e77113660f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Gyro Measurement Range Parameter ( Resolution: LSB/�/s )"><param name="Local" value="group__gyro__measur__range__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_131_2"><param name="Local" value="group__gyro__measur__range__param.html#ga822aaa67d38d249e59e6b4d3f7da751e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_16_4"><param name="Local" value="group__gyro__measur__range__param.html#ga9b8253f3b66a24ccc5735c9271cb089d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_262_4"><param name="Local" value="group__gyro__measur__range__param.html#ga3ac0ecf8db221401f578e317be71e5ce"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_32_8"><param name="Local" value="group__gyro__measur__range__param.html#ga10489226d24cde33e88b75af82ee5b94"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_65_6"><param name="Local" value="group__gyro__measur__range__param.html#gaecc62b0eb585f54a862f46a0ed67019b"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Gyro MPU Band Width Parameter ( Hz )"><param name="Local" value="group__gyro__mpu__band__width__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_116"><param name="Local" value="group__gyro__mpu__band__width__param.html#ga99724c5feccd42ef57108de4a843827a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_12"><param name="Local" value="group__gyro__mpu__band__width__param.html#gadd4f0c2709f82c78396d7583d60af07e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_23"><param name="Local" value="group__gyro__mpu__band__width__param.html#gafacf607ec0a8eabd93a664e77b0210f9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_230"><param name="Local" value="group__gyro__mpu__band__width__param.html#gab15da943492e2b8e5a2315be6c29b080"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_32"><param name="Local" value="group__gyro__mpu__band__width__param.html#gad8132231dabadb4c4fe855f0d12ffaaf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_47"><param name="Local" value="group__gyro__mpu__band__width__param.html#ga76c29f2de1cd8e90cecc099664c1eccb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_523"><param name="Local" value="group__gyro__mpu__band__width__param.html#gad67746d8782e0f4c42300aa294b39a1f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_64"><param name="Local" value="group__gyro__mpu__band__width__param.html#ga3304d4df5e9c83f74aa94ae40c592420"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Gyro Sleep Duration Parameter ( ms )"><param name="Local" value="group__gyro__sleep__duration__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_10MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga1989209bac099e41025c9eb17f76d9c6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_15MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gaa3dfa4500e926d2c49520e29405eee8a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_18MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga47f805603bd1be3d0eb8977babf4702d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_20MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gab0c3df8bfdc6ac052f7d39ecf890a16f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_2MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga64e1f088f507c6ff523dfd30e4377b5d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_4MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gae11e990c30b593d5ce636605e78ba2ec"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_5MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga6b65f547847670f0fcbd65d5c7a0c8e2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_8MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gac492d3ff23a66781a74f92b2593248cf"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Mag Power Control Parameter"><param name="Local" value="group__mag__power__ctrl__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_POW_CTL_SLEEP_MODE"><param name="Local" value="group__mag__power__ctrl__param.html#ga6b2204786d3dfb009df8a13781ee5ff0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_POW_CTL_SOFT_RESET"><param name="Local" value="group__mag__power__ctrl__param.html#ga9a97834a002df5703577c466f4791b96"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_POW_CTL_SUSPEND_MODE"><param name="Local" value="group__mag__power__ctrl__param.html#ga8d10f6b34cf837fa00d8b1c2b53675f5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Mag Datarate Control Parameter"><param name="Local" value="group__mag__datarate__ctrl__param.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_10"><param name="Local" value="group__mag__datarate__ctrl__param.html#gada3811397add8be8005c3db9f1d48a90"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_15"><param name="Local" value="group__mag__datarate__ctrl__param.html#gae661e15609e65f31def67e65cf0dd0d6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_2"><param name="Local" value="group__mag__datarate__ctrl__param.html#ga379ea7627e6d64c3843d8dcf29204fe7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_20"><param name="Local" value="group__mag__datarate__ctrl__param.html#ga8a4635626d8456bbdbff8ceb764865a4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_25"><param name="Local" value="group__mag__datarate__ctrl__param.html#ga61f7a110a258c6680e8cf26bf536d20a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_30"><param name="Local" value="group__mag__datarate__ctrl__param.html#gab88d439ac0d4993a3024fcccb4be9f68"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_6"><param name="Local" value="group__mag__datarate__ctrl__param.html#gae273804b6c67adc7aae8ecb79b1461d1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_8"><param name="Local" value="group__mag__datarate__ctrl__param.html#gad73f22315d5c7211dcfa6c68c8590dde"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Mag Repetitions for X-Y-Z Axis"><param name="Local" value="group__mag__repetitions.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_XY_REPET_9"><param name="Local" value="group__mag__repetitions.html#ga33f1a84b45b28df35eff3d1cc8a4f211"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_Z_REPET_15"><param name="Local" value="group__mag__repetitions.html#gae7fd8fe0c0c443c377a89cabec227236"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SPI"><param name="Local" value="group__spi.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_BIT_MASK_SPI_CMD_READ"><param name="Local" value="group__spi.html#gacd860a479bce10b9e3399328d18d414b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_BIT_MASK_SPI_CMD_WRITE"><param name="Local" value="group__spi.html#gaa117447bc22fddef064466575ac1b397"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_SPI_COMMUNICATION_DUMMY"><param name="Local" value="group__spi.html#gaf1f528c77f1ddd6061f7c96afb52744c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Check Accel, Gyro and Mag ID"><param name="Local" value="group__accel__gyro__mag__id.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_COMM_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#gaf487af2e84e517e2af01445a2846bca2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_COMM_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#ga0bf9fb3b1cdd6250ecda27d0e46cfdbb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_COMM_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#ga8192616946667b14ef5943b035a03471"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_COMM_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#ga4f164dfc888bb04e9ffb9a922225115f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ID_CHECK_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#gab5646636f099f90452edb52c27ca8bab"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ID_CHECK_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#gada583f6a8354b378f1e26a8e50c92fe2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_COMM_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#gac475b194b94ccd1751d90d26103b6580"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_COMM_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#ga7f6617b5ebea552365eda8d05a15bfc7"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Communication Mode"><param name="Local" value="group__communication__mode.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="COMMUNICATION_MODE_ACCEL"><param name="Local" value="group__communication__mode.html#gaaa3c09021c5ff03dae54fe6757ad45f4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="COMMUNICATION_MODE_GYRO"><param name="Local" value="group__communication__mode.html#ga8a759a21083b89aabbef8e98cffef57c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="COMMUNICATION_MODE_MAG"><param name="Local" value="group__communication__mode.html#gad629706b6f89aa45b1ef48cffcf684c6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="RST pin state"><param name="Local" value="group__rst__pin__state.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_PIN_STATE_HIGH"><param name="Local" value="group__rst__pin__state.html#ga147189e74b67ae555e0936bb713d159a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_PIN_STATE_LOW"><param name="Local" value="group__rst__pin__state.html#ga6d302c5d530025a9177f64ff440aa9c6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Types"><param name="Local" value="group__type.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_s"><param name="Local" value="structc9dof3__s.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="chip_select"><param name="Local" value="structc9dof3__s.html#ae4ecd3ce05887af3df2edaa617ce20c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cs1"><param name="Local" value="structc9dof3__s.html#ab8d43758e14e960ea87ff3bb8ea60b02"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cs2"><param name="Local" value="structc9dof3__s.html#ad2902494afc5951bbf56515998b49ad8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cs3"><param name="Local" value="structc9dof3__s.html#a86b716111aac58bf5ba7af38bfa3e662"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="drv_sel"><param name="Local" value="structc9dof3__s.html#ad2e87a37e473c90acfd42a5feefd41d6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c"><param name="Local" value="structc9dof3__s.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="int_pin"><param name="Local" value="structc9dof3__s.html#a9474fb5652d7ba15f0048b07f9360af6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="read_f"><param name="Local" value="structc9dof3__s.html#aff71a91687ce6574dcaa8bea0b9a2488"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sel_mode"><param name="Local" value="structc9dof3__s.html#a9d91bdb521eca4bc86e7b9c14495406e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="slave_address"><param name="Local" value="structc9dof3__s.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="spi"><param name="Local" value="structc9dof3__s.html#a1a3ff96f28dc09691b0a5746ff720189"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="write_f"><param name="Local" value="structc9dof3__s.html#a49c15a7ca8b28ad92e7ef01cb5019176"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_cfg_t"><param name="Local" value="structc9dof3__cfg__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cs1"><param name="Local" value="structc9dof3__cfg__t.html#a128eebc33b049faca2c1e8befe12ee0a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cs2"><param name="Local" value="structc9dof3__cfg__t.html#a44c970fd7140ee760fce8ce127c9331d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cs3"><param name="Local" value="structc9dof3__cfg__t.html#a7b2adb0fc6cc730f056013622e487100"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cs_polarity"><param name="Local" value="structc9dof3__cfg__t.html#a75c0dfb30561bfa74feb35b6e037efa6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="drv_sel"><param name="Local" value="structc9dof3__cfg__t.html#ad2e87a37e473c90acfd42a5feefd41d6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_address"><param name="Local" value="structc9dof3__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_speed"><param name="Local" value="structc9dof3__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="int_pin"><param name="Local" value="structc9dof3__cfg__t.html#aca157de093dd75a2685a6b26c1c2d576"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="miso"><param name="Local" value="structc9dof3__cfg__t.html#ad68efd7e8ad1531f79a1d9e004473307"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="mosi"><param name="Local" value="structc9dof3__cfg__t.html#aad2210fd7a5119c1d12f5003fe359c21"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sck"><param name="Local" value="structc9dof3__cfg__t.html#a7d4fefea9071f5217ef8973c771751e5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scl"><param name="Local" value="structc9dof3__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sda"><param name="Local" value="structc9dof3__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="spi_mode"><param name="Local" value="structc9dof3__cfg__t.html#a8b8321dd2f1b623cd940e73b118f610d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="spi_speed"><param name="Local" value="structc9dof3__cfg__t.html#aaf56291fd6677734c778aef6c89548e8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_accel_t"><param name="Local" value="structc9dof3__accel__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="structc9dof3__accel__t.html#ae1c2d516777e6b42af0d281c9ecc7375"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="structc9dof3__accel__t.html#af77b1a54442f2443cf64a4766f916bcd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="structc9dof3__accel__t.html#abd938edbea27ed4f351dc19d69039222"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_gyro_t"><param name="Local" value="structc9dof3__gyro__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="structc9dof3__gyro__t.html#ae1c2d516777e6b42af0d281c9ecc7375"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="structc9dof3__gyro__t.html#af77b1a54442f2443cf64a4766f916bcd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="structc9dof3__gyro__t.html#abd938edbea27ed4f351dc19d69039222"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_mag_t"><param name="Local" value="structc9dof3__mag__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="structc9dof3__mag__t.html#ae1c2d516777e6b42af0d281c9ecc7375"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="structc9dof3__mag__t.html#af77b1a54442f2443cf64a4766f916bcd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="structc9dof3__mag__t.html#abd938edbea27ed4f351dc19d69039222"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_master_io_t"><param name="Local" value="group__type.html#gacdc83f8cf85c4a8e4626eb475d1fcaef"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_t"><param name="Local" value="group__type.html#gae5fd81b29cec9406ba2795d8ac74dafd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_drv_t"><param name="Local" value="group__type.html#gae7ee86e37f67237b323dcb52ec34e45c"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_DRV_SEL_SPI"><param name="Local" value="group__type.html#ggae7ee86e37f67237b323dcb52ec34e45caa3dd107e799e450809759ff166cf838e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_DRV_SEL_I2C"><param name="Local" value="group__type.html#ggae7ee86e37f67237b323dcb52ec34e45cabc33f4bfa5d6e259149ba23575845d0f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_return_value_t"><param name="Local" value="group__type.html#ga25fb9325b2818a2bd720e3ed850c5195"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_OK"><param name="Local" value="group__type.html#gga25fb9325b2818a2bd720e3ed850c5195a35207f47be0ca3f11c52861baf2a63d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ERROR"><param name="Local" value="group__type.html#gga25fb9325b2818a2bd720e3ed850c5195a753de461efbef06c07a7bf0e649e8377"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Public function"><param name="Local" value="group__public__function.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_cfg_setup"><param name="Local" value="group__public__function.html#ga217a4c429b492fe58a60e138630bccbc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_check_communication"><param name="Local" value="group__public__function.html#gabd783c99fe6d8d0a65608cb7dd5dcc31"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_check_interrupt"><param name="Local" value="group__public__function.html#ga32707b1443c5023ac4ea53b846a36c2e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_default_cfg"><param name="Local" value="group__public__function.html#ga502b46a94d4dce442df5f40982dc958f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_drv_interface_selection"><param name="Local" value="group__public__function.html#ga2637c767e4ec82a791b3e0b1fe3d29a8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_generic_read"><param name="Local" value="group__public__function.html#ga03e6ec3251935d2320e2fe6f64ef324e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_generic_write"><param name="Local" value="group__public__function.html#ga500471557db948592443ab6c0861b7c0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_get_data"><param name="Local" value="group__public__function.html#ga7d7270ca9043c1c9e3873c43b8454c4f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_init"><param name="Local" value="group__public__function.html#gaf327d7c6606d3bb1d6db06e64c9e60aa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_read_accel_data"><param name="Local" value="group__public__function.html#gabe3cb626f5c21665d2dc98e7b3d36594"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_read_gyro_data"><param name="Local" value="group__public__function.html#ga460e8db6622f39b15594f9a0f4f23ec5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_read_mag_data"><param name="Local" value="group__public__function.html#ga0c566b546a0826d9ab0aa8a6e9ea5086"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_accel_t"><param name="Local" value="structc9dof3__accel__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="structc9dof3__accel__t.html#ae1c2d516777e6b42af0d281c9ecc7375"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="structc9dof3__accel__t.html#af77b1a54442f2443cf64a4766f916bcd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="structc9dof3__accel__t.html#abd938edbea27ed4f351dc19d69039222"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_cfg_t"><param name="Local" value="structc9dof3__cfg__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cs1"><param name="Local" value="structc9dof3__cfg__t.html#a128eebc33b049faca2c1e8befe12ee0a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cs2"><param name="Local" value="structc9dof3__cfg__t.html#a44c970fd7140ee760fce8ce127c9331d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cs3"><param name="Local" value="structc9dof3__cfg__t.html#a7b2adb0fc6cc730f056013622e487100"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cs_polarity"><param name="Local" value="structc9dof3__cfg__t.html#a75c0dfb30561bfa74feb35b6e037efa6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="drv_sel"><param name="Local" value="structc9dof3__cfg__t.html#ad2e87a37e473c90acfd42a5feefd41d6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_address"><param name="Local" value="structc9dof3__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c_speed"><param name="Local" value="structc9dof3__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="int_pin"><param name="Local" value="structc9dof3__cfg__t.html#aca157de093dd75a2685a6b26c1c2d576"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="miso"><param name="Local" value="structc9dof3__cfg__t.html#ad68efd7e8ad1531f79a1d9e004473307"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mosi"><param name="Local" value="structc9dof3__cfg__t.html#aad2210fd7a5119c1d12f5003fe359c21"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sck"><param name="Local" value="structc9dof3__cfg__t.html#a7d4fefea9071f5217ef8973c771751e5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="scl"><param name="Local" value="structc9dof3__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sda"><param name="Local" value="structc9dof3__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="spi_mode"><param name="Local" value="structc9dof3__cfg__t.html#a8b8321dd2f1b623cd940e73b118f610d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="spi_speed"><param name="Local" value="structc9dof3__cfg__t.html#aaf56291fd6677734c778aef6c89548e8"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_gyro_t"><param name="Local" value="structc9dof3__gyro__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="structc9dof3__gyro__t.html#ae1c2d516777e6b42af0d281c9ecc7375"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="structc9dof3__gyro__t.html#af77b1a54442f2443cf64a4766f916bcd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="structc9dof3__gyro__t.html#abd938edbea27ed4f351dc19d69039222"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_mag_t"><param name="Local" value="structc9dof3__mag__t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="structc9dof3__mag__t.html#ae1c2d516777e6b42af0d281c9ecc7375"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="structc9dof3__mag__t.html#af77b1a54442f2443cf64a4766f916bcd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="structc9dof3__mag__t.html#abd938edbea27ed4f351dc19d69039222"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_s"><param name="Local" value="structc9dof3__s.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="chip_select"><param name="Local" value="structc9dof3__s.html#ae4ecd3ce05887af3df2edaa617ce20c5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cs1"><param name="Local" value="structc9dof3__s.html#ab8d43758e14e960ea87ff3bb8ea60b02"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cs2"><param name="Local" value="structc9dof3__s.html#ad2902494afc5951bbf56515998b49ad8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cs3"><param name="Local" value="structc9dof3__s.html#a86b716111aac58bf5ba7af38bfa3e662"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="drv_sel"><param name="Local" value="structc9dof3__s.html#ad2e87a37e473c90acfd42a5feefd41d6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i2c"><param name="Local" value="structc9dof3__s.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="int_pin"><param name="Local" value="structc9dof3__s.html#a9474fb5652d7ba15f0048b07f9360af6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="read_f"><param name="Local" value="structc9dof3__s.html#aff71a91687ce6574dcaa8bea0b9a2488"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sel_mode"><param name="Local" value="structc9dof3__s.html#a9d91bdb521eca4bc86e7b9c14495406e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="slave_address"><param name="Local" value="structc9dof3__s.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="spi"><param name="Local" value="structc9dof3__s.html#a1a3ff96f28dc09691b0a5746ff720189"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="write_f"><param name="Local" value="structc9dof3__s.html#a49c15a7ca8b28ad92e7ef01cb5019176"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structure Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Fields"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cmake"><param name="Local" value="dir_a5bdbfbbaa7895161d62825676df7980.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3"><param name="Local" value="dir_c6ac47b44d9289e8c2ad0f69d9e65876.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="example"><param name="Local" value="dir_b63079b049ec7395305de622f4636c7c.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="main.c"><param name="Local" value="main_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="application_init"><param name="Local" value="main_8c.html#a0e95431f48ee71c1040217b94766ffcf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="application_task"><param name="Local" value="main_8c.html#a362899c9f270bb296179185fd96b878e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="accel_data"><param name="Local" value="main_8c.html#aead5517348fb3a41432ce05d7f4bb8c3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="gyro_data"><param name="Local" value="main_8c.html#a62b4a384dad99ac2840550cbea3c7820"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mag_data"><param name="Local" value="main_8c.html#aa4bdb9dd28076b12c99d8f863062a4f4"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="lib_c9dof3"><param name="Local" value="dir_cfe4a5e3b60515e5f124da92a698167d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="include"><param name="Local" value="dir_6c10b374006e5169d568a29eecf6f7e8.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3.h"><param name="Local" value="c9dof3_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_COMM_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#gaf487af2e84e517e2af01445a2846bca2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_COMM_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#ga0bf9fb3b1cdd6250ecda27d0e46cfdbb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_DEVICE"><param name="Local" value="group__device__check__register.html#ga08a21b3121719e0c84b7e14a13d8a4b4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_I2C_SLAVE_ADDRESS"><param name="Local" value="group__i2c__slave__address.html#gaab396f7890a988519198aa14f657bcd6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_1000"><param name="Local" value="group__accel__mpu__band__width__param.html#gac5ceb263b3393f19a9afb68ee9d7a32f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_125"><param name="Local" value="group__accel__mpu__band__width__param.html#gaa54d37c949284ba22de4c263626df836"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_15_63"><param name="Local" value="group__accel__mpu__band__width__param.html#ga56ea65269d1d15e0d78ac0eb491b496d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_250"><param name="Local" value="group__accel__mpu__band__width__param.html#gaf5ef6458c474093a2d21fef049d81c49"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_31_25"><param name="Local" value="group__accel__mpu__band__width__param.html#ga1b9c7acdf54058d5bf3aca65b60b0522"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_500"><param name="Local" value="group__accel__mpu__band__width__param.html#gad238b0c38dd65c904dcc184623365e31"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_62_5"><param name="Local" value="group__accel__mpu__band__width__param.html#ga90232114d5a006e1393fb2a78e98b654"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_BW_7_81"><param name="Local" value="group__accel__mpu__band__width__param.html#ga01ea8c0d989977e4f19a946d876d8dc5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_DEEP_SUSPEND"><param name="Local" value="group__accel__low__power__mode__param.html#ga496d60fc25d3776c33771b27779a22bd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_LOW_POWER"><param name="Local" value="group__accel__low__power__mode__param.html#ga1a1a11fc68a3c64cf46d8683732d6ebd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_NOMAL"><param name="Local" value="group__accel__low__power__mode__param.html#gab32caf1b22414d5ed347183c313867e1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_MODE_SUSPEND"><param name="Local" value="group__accel__low__power__mode__param.html#gadfb95327d4589e9dd01c97d37f622c21"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_0_5MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga3c23dbad451c47448e5987661fdf0d47"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_100MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga9cfe21bb40d4db90beece8a5abb7cd1b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_10MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#gaf67e6feb274553b54d8bc99c40c2cd22"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_1MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga41442fe553df28883621094017318c08"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_1S"><param name="Local" value="group___accel__sleep__phase__duration__param.html#gaea3cfeff01de79e4b5932bba1bbd75ea"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_25MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga29552f1d4f8d287c392b082db9709e96"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_2MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#gaab087a3e9f08111befb9d71a7141a03e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_4MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga8ec7a307246ee8c70f042bd8eadcbea3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_500MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga6ec7af71bdb577f06bcf6bf384314011"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_50MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga71bdd0a9ea45e846bf1e5e7a8c1f78c9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_PMU_LPW_SLEEP_DUR_6MS"><param name="Local" value="group___accel__sleep__phase__duration__param.html#ga915a70ee13ce324242ab9a8b57df2187"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_16"><param name="Local" value="group__accel__mpu__range__param.html#ga38d3a2f53ee16af123a7b3d5b7e6ac45"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_2"><param name="Local" value="group__accel__mpu__range__param.html#gac1d3b86dc95bee6f4f7b2571ecb061bb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_4"><param name="Local" value="group__accel__mpu__range__param.html#ga415feaf3ca0b6676286610ab95a3f858"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ACC_RANGE_8"><param name="Local" value="group__accel__mpu__range__param.html#ga490a3f398326ef894b9ef4a6b998ae44"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_BIT_MASK_SPI_CMD_READ"><param name="Local" value="group__spi.html#gacd860a479bce10b9e3399328d18d414b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_BIT_MASK_SPI_CMD_WRITE"><param name="Local" value="group__spi.html#gaa117447bc22fddef064466575ac1b397"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_116"><param name="Local" value="group__gyro__mpu__band__width__param.html#ga99724c5feccd42ef57108de4a843827a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_12"><param name="Local" value="group__gyro__mpu__band__width__param.html#gadd4f0c2709f82c78396d7583d60af07e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_23"><param name="Local" value="group__gyro__mpu__band__width__param.html#gafacf607ec0a8eabd93a664e77b0210f9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_230"><param name="Local" value="group__gyro__mpu__band__width__param.html#gab15da943492e2b8e5a2315be6c29b080"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_32"><param name="Local" value="group__gyro__mpu__band__width__param.html#gad8132231dabadb4c4fe855f0d12ffaaf"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_47"><param name="Local" value="group__gyro__mpu__band__width__param.html#ga76c29f2de1cd8e90cecc099664c1eccb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_523"><param name="Local" value="group__gyro__mpu__band__width__param.html#gad67746d8782e0f4c42300aa294b39a1f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_BW_64"><param name="Local" value="group__gyro__mpu__band__width__param.html#ga3304d4df5e9c83f74aa94ae40c592420"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_COMM_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#ga8192616946667b14ef5943b035a03471"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_COMM_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#ga4f164dfc888bb04e9ffb9a922225115f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_DEVICE"><param name="Local" value="group__device__check__register.html#gadc06d1ec8f3349ec38913d4251ae427c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_I2C_SLAVE_ADDRESS"><param name="Local" value="group__i2c__slave__address.html#ga4f051053b179971377dac8f5b6947977"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_MODE_DEEP_SUSPEND"><param name="Local" value="group__gyro__low__power__mode__param.html#ga7e6d151e41f98fb13c233552f520ffae"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_MODE_NOMAL"><param name="Local" value="group__gyro__low__power__mode__param.html#ga3c0bd4d1533249a715391211771ce1d5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_MODE_SUSPEND"><param name="Local" value="group__gyro__low__power__mode__param.html#gadc78a2dcc2543cb7337cd8e77113660f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_10MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga1989209bac099e41025c9eb17f76d9c6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_15MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gaa3dfa4500e926d2c49520e29405eee8a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_18MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga47f805603bd1be3d0eb8977babf4702d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_20MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gab0c3df8bfdc6ac052f7d39ecf890a16f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_2MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga64e1f088f507c6ff523dfd30e4377b5d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_4MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gae11e990c30b593d5ce636605e78ba2ec"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_5MS"><param name="Local" value="group__gyro__sleep__duration__param.html#ga6b65f547847670f0fcbd65d5c7a0c8e2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_LPM1_SLEEP_DUR_8MS"><param name="Local" value="group__gyro__sleep__duration__param.html#gac492d3ff23a66781a74f92b2593248cf"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_131_2"><param name="Local" value="group__gyro__measur__range__param.html#ga822aaa67d38d249e59e6b4d3f7da751e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_16_4"><param name="Local" value="group__gyro__measur__range__param.html#ga9b8253f3b66a24ccc5735c9271cb089d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_262_4"><param name="Local" value="group__gyro__measur__range__param.html#ga3ac0ecf8db221401f578e317be71e5ce"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_32_8"><param name="Local" value="group__gyro__measur__range__param.html#ga10489226d24cde33e88b75af82ee5b94"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_GYRO_RANGE_65_6"><param name="Local" value="group__gyro__measur__range__param.html#gaecc62b0eb585f54a862f46a0ed67019b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ID_CHECK_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#gab5646636f099f90452edb52c27ca8bab"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ID_CHECK_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#gada583f6a8354b378f1e26a8e50c92fe2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_INITIATED_SOFT_RESET"><param name="Local" value="group__soft__reset__parameter.html#gad65d3407684f60d2c189cb9d5e92f925"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_COMM_ERROR"><param name="Local" value="group__accel__gyro__mag__id.html#gac475b194b94ccd1751d90d26103b6580"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_COMM_SUCCESS"><param name="Local" value="group__accel__gyro__mag__id.html#ga7f6617b5ebea552365eda8d05a15bfc7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_10"><param name="Local" value="group__mag__datarate__ctrl__param.html#gada3811397add8be8005c3db9f1d48a90"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_15"><param name="Local" value="group__mag__datarate__ctrl__param.html#gae661e15609e65f31def67e65cf0dd0d6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_2"><param name="Local" value="group__mag__datarate__ctrl__param.html#ga379ea7627e6d64c3843d8dcf29204fe7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_20"><param name="Local" value="group__mag__datarate__ctrl__param.html#ga8a4635626d8456bbdbff8ceb764865a4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_25"><param name="Local" value="group__mag__datarate__ctrl__param.html#ga61f7a110a258c6680e8cf26bf536d20a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_30"><param name="Local" value="group__mag__datarate__ctrl__param.html#gab88d439ac0d4993a3024fcccb4be9f68"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_6"><param name="Local" value="group__mag__datarate__ctrl__param.html#gae273804b6c67adc7aae8ecb79b1461d1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DATA_RATE_8"><param name="Local" value="group__mag__datarate__ctrl__param.html#gad73f22315d5c7211dcfa6c68c8590dde"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_DEVICE"><param name="Local" value="group__device__check__register.html#ga99bcd534953461b71d90a120f92f775e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_I2C_SLAVE_ADDRESS"><param name="Local" value="group__i2c__slave__address.html#ga2f051a491ea53140277dc79a53acc8f3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_POW_CTL_SLEEP_MODE"><param name="Local" value="group__mag__power__ctrl__param.html#ga6b2204786d3dfb009df8a13781ee5ff0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_POW_CTL_SOFT_RESET"><param name="Local" value="group__mag__power__ctrl__param.html#ga9a97834a002df5703577c466f4791b96"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_POW_CTL_SUSPEND_MODE"><param name="Local" value="group__mag__power__ctrl__param.html#ga8d10f6b34cf837fa00d8b1c2b53675f5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_XY_REPET_9"><param name="Local" value="group__mag__repetitions.html#ga33f1a84b45b28df35eff3d1cc8a4f211"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAG_Z_REPET_15"><param name="Local" value="group__mag__repetitions.html#gae7fd8fe0c0c443c377a89cabec227236"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MAP_MIKROBUS"><param name="Local" value="group__map__mikrobus.html#ga837fce0450ef023c53b7bd6126ea97f3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MASTER_I2C"><param name="Local" value="group__communication.html#gad6088954ba38486595ab498bf2a919a3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_MASTER_SPI"><param name="Local" value="group__communication.html#ga9e05c5134f8f25baa228e2edf44ff1b5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_PIN_STATE_HIGH"><param name="Local" value="group__rst__pin__state.html#ga147189e74b67ae555e0936bb713d159a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_PIN_STATE_LOW"><param name="Local" value="group__rst__pin__state.html#ga6d302c5d530025a9177f64ff440aa9c6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_BGW_SOFTRESET"><param name="Local" value="group__accel__register.html#ga94a794c5df43cc3a75dcd0b4334df485"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_BGW_SPI3_WDT"><param name="Local" value="group__accel__register.html#ga6c575290d090fcf18977ac5bbaf6e9fa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_HBW"><param name="Local" value="group__accel__register.html#gac740321a19a4aff69363d47333145604"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_TEMP"><param name="Local" value="group__accel__register.html#ga0cdd9ab480957e1a3768461ce2b00e87"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_X_LSB"><param name="Local" value="group__accel__register.html#ga8c01ce485745bfa72bc4c1f461d0cce6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_X_MSB"><param name="Local" value="group__accel__register.html#ga9796d0a050307187a2b4bdb94a08cc20"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Y_LSB"><param name="Local" value="group__accel__register.html#ga16e84275af98df6853216af924562e54"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Y_MSB"><param name="Local" value="group__accel__register.html#ga500b8833f35789a33c573fc0e217415a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Z_LSB"><param name="Local" value="group__accel__register.html#gaac09060218d71ebcad5ab337659c7c4e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_D_Z_MSB"><param name="Local" value="group__accel__register.html#ga90c5351091d00af61b80942c24e19acd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_DATA_START"><param name="Local" value="group__accel__register.html#ga9fbba37da6e138833b167fb1c4cb42df"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_CONFIG_0"><param name="Local" value="group__accel__register.html#gadfa42325a2b8fb154bda258a4442ce80"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_CONFIG_1"><param name="Local" value="group__accel__register.html#ga0c587f7f76f1ccae95f8e16aad09c068"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_DATA"><param name="Local" value="group__accel__register.html#ga293f84c642c0176f92a04a958fe1ae26"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_FIFO_STATUS"><param name="Local" value="group__accel__register.html#gad79077260184af97873a8c86b4783b35"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_0"><param name="Local" value="group__accel__register.html#ga894281d8d2dfdaedffb55a15ee07a714"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_1"><param name="Local" value="group__accel__register.html#ga80366a2ee55a9b9d7c583edb11007dee"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_2"><param name="Local" value="group__accel__register.html#ga745fa5736ec3508961fe69eb29e5fd5c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_3"><param name="Local" value="group__accel__register.html#ga0c7f86c9b332ac3360522b7f9a797af6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_4"><param name="Local" value="group__accel__register.html#ga007512bb5914b436558f35738ffc54f5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_5"><param name="Local" value="group__accel__register.html#ga8890fa38680fe289c3f86b2d0e005e0c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_6"><param name="Local" value="group__accel__register.html#gae4a9af080e11f9c72adacf52484feea9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_7"><param name="Local" value="group__accel__register.html#ga5393e64aaa4c5f4ea33768a8171467b8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_8"><param name="Local" value="group__accel__register.html#ga48a9b96ddbf431763b50bf249f528191"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_9"><param name="Local" value="group__accel__register.html#gaaf733b310922ee9ed712b5485abb1b43"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_A"><param name="Local" value="group__accel__register.html#gaac78d67ad26c332b526640a2eaa4a2de"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_B"><param name="Local" value="group__accel__register.html#ga62befe4e7bd4f5c86d493892c3610960"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_C"><param name="Local" value="group__accel__register.html#ga89923e402891bda9033ace14021b5bb5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_D"><param name="Local" value="group__accel__register.html#gae2470e8366b11d49aada435f958c0923"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_EN_0"><param name="Local" value="group__accel__register.html#gac2a050e686aafbcd13fd9f531fb80533"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_EN_1"><param name="Local" value="group__accel__register.html#ga97351e54d619f7107fe2ea44bf2ff4de"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_EN_2"><param name="Local" value="group__accel__register.html#gab5830163528ae56fb781302d8398417b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_MAP_0"><param name="Local" value="group__accel__register.html#gabdc432c39e6ab847f3af6f2df29fad56"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_MAP_1"><param name="Local" value="group__accel__register.html#ga41fb9415fe1fd9ff71f73e732dae8fc1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_MAP_2"><param name="Local" value="group__accel__register.html#gafabbac1a7da22c2081271fb9f16140e3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_OUT_CTRL"><param name="Local" value="group__accel__register.html#ga6fd48c0b02b7a724ab1b128e9c3fc398"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_RST_LATCH"><param name="Local" value="group__accel__register.html#ga1c1cc0cfda31be597b6f3ca580f2117b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_SRC"><param name="Local" value="group__accel__register.html#ga8d441a38eac68cad7b07283c8aa4a62f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_0"><param name="Local" value="group__accel__register.html#ga29622a9c0a8780ab06d7c8935bb3c764"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_1"><param name="Local" value="group__accel__register.html#ga329e54671b6fd687cd5585f4804c79c6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_2"><param name="Local" value="group__accel__register.html#ga4c139e48ac15c23a66a8edde9aba2016"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_INT_STATUS_3"><param name="Local" value="group__accel__register.html#ga5a8230e5d34d405fb0904f658541e411"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_CTRL"><param name="Local" value="group__accel__register.html#gaeebb214c45d4503d88ddd1aca59faca5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_OFFSET_X"><param name="Local" value="group__accel__register.html#ga8e1cd641ac176a7e6554bdca041d8ffa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_OFFSET_Y"><param name="Local" value="group__accel__register.html#ga05c83675ead0b07fa5234968acc9dd2e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_OFFSET_Z"><param name="Local" value="group__accel__register.html#gaf5515d63435ecb02718807dafc44eb7b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_OFC_SETTING"><param name="Local" value="group__accel__register.html#ga2a7a2af21b953ba264d0b95f73687878"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_BW"><param name="Local" value="group__accel__register.html#ga8a1b2f967784fe7bb359f335c122e9fc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_LOW_POWER"><param name="Local" value="group__accel__register.html#ga52b18ff20be8d6741b783789b24c2cc4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_LPW"><param name="Local" value="group__accel__register.html#ga223fbd017b2d4f9af7cf068028851612"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_RANGE"><param name="Local" value="group__accel__register.html#gaac27f89b676a3e6651190d872b83b5f8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_PMU_SELF_TEST"><param name="Local" value="group__accel__register.html#gabd084a60f37553dc9ba476e6ba362105"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_TRIM_GP1"><param name="Local" value="group__accel__register.html#gad1226b97d89b56adf15db5c3ee0d2ddd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_TRIM_GPO"><param name="Local" value="group__accel__register.html#gac07d91577d485cb92a46f71747f43feb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_TRIM_NVM_CTRL"><param name="Local" value="group__accel__register.html#ga68862de2daf32c2387abc0d854454f44"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_ACC_WHO_AM_I"><param name="Local" value="group__accel__register.html#gaee190aee4f7b162249cb1f874d8d2894"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_A_FOC"><param name="Local" value="group__gyro__register.html#gab3c8a6287125209da02d9176b2d0da7b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BGW_SOFTRESET"><param name="Local" value="group__gyro__register.html#ga11f5cdc30fc80f07ffd32bdd6993fded"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BGW_SPI3_WDT"><param name="Local" value="group__gyro__register.html#ga4499b7b128d617b3043cd3ccdd2ddf9c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BIST"><param name="Local" value="group__gyro__register.html#ga64795aadea09707fbeae68be9ff0498f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_BW"><param name="Local" value="group__gyro__register.html#ga7fd94c46398c5caa63b19ef17d7ac2b3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_DATA_START"><param name="Local" value="group__gyro__register.html#gacfbb10ced08b58d0e270335884fe017a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_CONFIG_0"><param name="Local" value="group__gyro__register.html#ga592ec6e1a645a6716475a222872d58b9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_CONFIG_1"><param name="Local" value="group__gyro__register.html#ga38bdfdaaa5529b33e00cfddf6a7ff197"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_EN"><param name="Local" value="group__gyro__register.html#gaaf7cc58c9a352708e8630a0cf5fafc1f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_FIFO_STATUS"><param name="Local" value="group__gyro__register.html#ga23d962066239f4e98ee37ffa0b8e06c9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_DUR_X"><param name="Local" value="group__gyro__register.html#ga6ea5e0b94a4bb5d143619e16f23bbc66"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_DUR_Y"><param name="Local" value="group__gyro__register.html#gad279448a2cf3fc2b619db9cf024dd8c0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_DUR_Z"><param name="Local" value="group__gyro__register.html#ga189b1049fc765e910166acd28f37b325"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_TH_X"><param name="Local" value="group__gyro__register.html#ga224cc0a48c0c8c904712c20b9cd4d022"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_TH_Y"><param name="Local" value="group__gyro__register.html#ga3a2f75ae4e0a538af271741c441bed91"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_HIGH_TH_Z"><param name="Local" value="group__gyro__register.html#ga3089fc1505277386ef2b0bdf33f149eb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_EN_0"><param name="Local" value="group__gyro__register.html#ga3f30471af20c5a4f59c12630f43b5cf4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_EN_1"><param name="Local" value="group__gyro__register.html#ga36b0bccbaef712805782c6c2f95baa3e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_MAP_0"><param name="Local" value="group__gyro__register.html#gad21a2418da769e0c8280cd588b498b47"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_MAP_1"><param name="Local" value="group__gyro__register.html#ga1f2e329a7e99167cb6504e98ef530bae"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_MAP_2"><param name="Local" value="group__gyro__register.html#ga1e025d12838039329192cf0a2e774a44"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_RST_LATCH"><param name="Local" value="group__gyro__register.html#ga899b4b2ddb01a0be5517446ef16147f4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_SRC_1"><param name="Local" value="group__gyro__register.html#gac84b5c923276970c87759227172f7af7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_SRC_2"><param name="Local" value="group__gyro__register.html#ga8bbec7781c7ff5c82b71dce73959cee0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_SRC_3"><param name="Local" value="group__gyro__register.html#ga3b65c81a7b2047a8a31d2986294e0f00"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_0"><param name="Local" value="group__gyro__register.html#ga73f2cb2dca1aa59488fd2882361789ae"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_1"><param name="Local" value="group__gyro__register.html#ga1a17225defa82daa8e90efe2f680da8e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_2"><param name="Local" value="group__gyro__register.html#gaa87f9e90795773c8f627237f8deccc85"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_INT_STATUS_3"><param name="Local" value="group__gyro__register.html#ga40f364448ba42c72e1f50721d491e68e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_LPM1"><param name="Local" value="group__gyro__register.html#ga978d0af976517f74ad20e7fb93602cf6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_LPM2"><param name="Local" value="group__gyro__register.html#ga4ec9b58d2941fa873ca9085b5ba3980f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC1"><param name="Local" value="group__gyro__register.html#ga528f3f89fa415c28f0b022ab2f2e5dbc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC2"><param name="Local" value="group__gyro__register.html#gab1671b69ed3e5c860fe2f57ce8404b96"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC3"><param name="Local" value="group__gyro__register.html#gaf738853b7048d6b7d4f7c74fe1f07207"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_OFC4"><param name="Local" value="group__gyro__register.html#ga4814a59ede3b03627fece7a4045a6e83"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RANGE"><param name="Local" value="group__gyro__register.html#gabf29e5d1eb6587231a5b9ee3b2ec07cf"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_HBW"><param name="Local" value="group__gyro__register.html#ga3178686d329589093db5c09cb89261c8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_X_LSB"><param name="Local" value="group__gyro__register.html#ga2957454b5712a81f60f9ef10795401ee"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_X_MSB"><param name="Local" value="group__gyro__register.html#gaa7e51782a6ddad0c701fc1ed0a9d4287"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Y_LSB"><param name="Local" value="group__gyro__register.html#ga4a69eef058c689b5df79331140a70c12"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Y_MSB"><param name="Local" value="group__gyro__register.html#ga13f21936723236f2c755fe381a9325ab"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Z_LSB"><param name="Local" value="group__gyro__register.html#ga81137f9ab4e733fc4220c00242f67f7e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_RATE_Z_MSB"><param name="Local" value="group__gyro__register.html#gaebef7d7f3902340d682723ef275ca6f4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_SOC"><param name="Local" value="group__gyro__register.html#gae9046f0e7f22366ef6ff069486e34717"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_TRIM_GP0"><param name="Local" value="group__gyro__register.html#ga16f2d770fce38f10ab15e2d0001a53f3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_TRIM_GP1"><param name="Local" value="group__gyro__register.html#gabf203d5f4dbf3d19b9471c902be2c404"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_TRIM_NVM_CTRL"><param name="Local" value="group__gyro__register.html#gadf0da6189e97f2c9345e2a1df7e70450"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_GYRO_WHO_AM_I"><param name="Local" value="group__gyro__register.html#ga56bf7e9a973406c359b3b977df516c55"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_DATA_START"><param name="Local" value="group__mag__register.html#ga866fee825dd3e0b9e4bca4417736f5d1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_HIGH_THS"><param name="Local" value="group__mag__register.html#ga3cc434398808fa7411816941a83a4e73"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_INT_EN_1"><param name="Local" value="group__mag__register.html#gae91ab6b9ab29ffcb8b88cfe056d6da47"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_INT_EN_2"><param name="Local" value="group__mag__register.html#ga431385d3189cea2d0c6fafc4a6a4c841"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_INT_STATUS"><param name="Local" value="group__mag__register.html#ga5b08649bbd289a6ee782de00f033a2de"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_LOW_THS"><param name="Local" value="group__mag__register.html#ga85368e519cff241e2841172243800026"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_PWR_CNTL1"><param name="Local" value="group__mag__register.html#ga9b438c160c4b4e7b6a7beadbd3234b79"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_PWR_CNTL2"><param name="Local" value="group__mag__register.html#gaed0037ce0f7fbce716fc72f17bc8feb8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_REP_XY"><param name="Local" value="group__mag__register.html#ga16a704bcd02d5a4c9d47187596b812ec"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_REP_Z"><param name="Local" value="group__mag__register.html#gab58ec62a673a4550561ed13e50e3c6e8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ROUT_LSB"><param name="Local" value="group__mag__register.html#gaa7ae382fec0d35cd9c738a88ccd2a620"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ROUT_MSB"><param name="Local" value="group__mag__register.html#ga999b0ecc158e8c6fcf9d7db0133cdb7d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_WHO_AM_I"><param name="Local" value="group__mag__register.html#gabb1124198a7914c230567e89a63c257a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_XOUT_LSB"><param name="Local" value="group__mag__register.html#ga2cdc1c0bde544a391fe2b6b8560b85a3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_XOUT_MSB"><param name="Local" value="group__mag__register.html#ga6fe53d88491deaefce281c2e7c758c0c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_YOUT_LSB"><param name="Local" value="group__mag__register.html#ga75b499b8a4a4857e720d8120fae5bd6f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_YOUT_MSB"><param name="Local" value="group__mag__register.html#ga07264706b70997c7edabf0993e14fb10"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ZOUT_LSB"><param name="Local" value="group__mag__register.html#gafffae7882f9563cd179e2255b2ed26a1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_REG_MAG_ZOUT_MSB"><param name="Local" value="group__mag__register.html#ga0d674fad3d6ce80d1a2f4ae831e16aef"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_RETVAL"><param name="Local" value="group__error__code.html#ga0e1685110aa5ed8a557cd6c22d6251be"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_SPI_COMMUNICATION_DUMMY"><param name="Local" value="group__spi.html#gaf1f528c77f1ddd6061f7c96afb52744c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="COMMUNICATION_MODE_ACCEL"><param name="Local" value="group__communication__mode.html#gaaa3c09021c5ff03dae54fe6757ad45f4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="COMMUNICATION_MODE_GYRO"><param name="Local" value="group__communication__mode.html#ga8a759a21083b89aabbef8e98cffef57c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="COMMUNICATION_MODE_MAG"><param name="Local" value="group__communication__mode.html#gad629706b6f89aa45b1ef48cffcf684c6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_master_io_t"><param name="Local" value="group__type.html#gacdc83f8cf85c4a8e4626eb475d1fcaef"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_t"><param name="Local" value="group__type.html#gae5fd81b29cec9406ba2795d8ac74dafd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_drv_t"><param name="Local" value="group__type.html#gae7ee86e37f67237b323dcb52ec34e45c"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_DRV_SEL_SPI"><param name="Local" value="group__type.html#ggae7ee86e37f67237b323dcb52ec34e45caa3dd107e799e450809759ff166cf838e"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_DRV_SEL_I2C"><param name="Local" value="group__type.html#ggae7ee86e37f67237b323dcb52ec34e45cabc33f4bfa5d6e259149ba23575845d0f"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_return_value_t"><param name="Local" value="group__type.html#ga25fb9325b2818a2bd720e3ed850c5195"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_OK"><param name="Local" value="group__type.html#gga25fb9325b2818a2bd720e3ed850c5195a35207f47be0ca3f11c52861baf2a63d0"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="C9DOF3_ERROR"><param name="Local" value="group__type.html#gga25fb9325b2818a2bd720e3ed850c5195a753de461efbef06c07a7bf0e649e8377"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_cfg_setup"><param name="Local" value="group__public__function.html#ga217a4c429b492fe58a60e138630bccbc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_check_communication"><param name="Local" value="group__public__function.html#gabd783c99fe6d8d0a65608cb7dd5dcc31"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_check_interrupt"><param name="Local" value="group__public__function.html#ga32707b1443c5023ac4ea53b846a36c2e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_default_cfg"><param name="Local" value="group__public__function.html#ga502b46a94d4dce442df5f40982dc958f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_drv_interface_selection"><param name="Local" value="group__public__function.html#ga2637c767e4ec82a791b3e0b1fe3d29a8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_generic_read"><param name="Local" value="group__public__function.html#ga03e6ec3251935d2320e2fe6f64ef324e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_generic_write"><param name="Local" value="group__public__function.html#ga500471557db948592443ab6c0861b7c0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_get_data"><param name="Local" value="group__public__function.html#ga7d7270ca9043c1c9e3873c43b8454c4f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_init"><param name="Local" value="group__public__function.html#gaf327d7c6606d3bb1d6db06e64c9e60aa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_read_accel_data"><param name="Local" value="group__public__function.html#gabe3cb626f5c21665d2dc98e7b3d36594"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_read_gyro_data"><param name="Local" value="group__public__function.html#ga460e8db6622f39b15594f9a0f4f23ec5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="c9dof3_read_mag_data"><param name="Local" value="group__public__function.html#ga0c566b546a0826d9ab0aa8a6e9ea5086"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="globals_c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="globals_g.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="globals_m.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="globals_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="globals_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="globals_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="globals_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
